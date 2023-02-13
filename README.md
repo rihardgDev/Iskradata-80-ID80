@@ -1,4 +1,6 @@
 # Iskradata-80-ID80
+![Iskradata 80 (Računalniški Muzej)](https://github.com/rihardgDev/Iskradata-80-ID80/blob/main/Pictures/329009109_552718136810947_6477937635962921588_n.jpg)  
+
 Iskradata 80, or ID80 for short, is a distributed computer system developed and produced in 1979 and 1980 by the company Iskra TOZD Computers in Kranj, with the cooperation of the German company ADPS. The ID80 was a microcomputer with a modular design, so it was easy to adapt to the user's requirements.
 It was a buisnes computer, which its reflected in hardware, software and price.
 
