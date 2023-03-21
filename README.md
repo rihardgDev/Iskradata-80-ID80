@@ -24,6 +24,7 @@ https://www.oddbit-retro.org/restoring-an-iskradata-terminal-keyboard/
 https://books.google.si/books/about/Izdelati_programsko_opremo_za_analize_na.html?id=-osaOgAACAAJ&redir_esc=y  
 https://hr.wikipedia.org/wiki/Iskradata_80  
 https://books.google.si/books/about/CP_M_na_IskraData_80_71.html?id=O4tENAAACAAJ&redir_esc=y  
+https://www.racunalniski-muzej.si/domaca-proizvodnja-4-del-iskra-racunalniki-do-1981/  
 
 
 
